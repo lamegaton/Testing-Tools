@@ -1,6 +1,6 @@
 # Testing-Tools
 ## CMD_entry  
-![Image of CMD_Entry](https://raw.githubusercontent.com/lamegaton/Testing-Tools/master/pic/cmd_entry_0002.png | width=100)
+<img src="https://raw.githubusercontent.com/lamegaton/Testing-Tools/master/pic/cmd_entry_0002.png" width="400"/>
 
 # Misc  
 Open a program then input  
